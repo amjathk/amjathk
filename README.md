@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Amjath Khan
 
-<!--
-**amjathk/amjathk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### System Analyst | Full Stack PHP Developer
 
-Here are some ideas to get you started:
+I'm a System Analyst and Full Stack Developer with **7+ years of overall experience**, including **3+ years of professional experience in the UAE**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in developing and maintaining web applications, business solutions, CRM systems, APIs, and mobile applications.
+
+---
+
+## 💻 Technical Skills
+
+* **Backend:** PHP, Laravel, CodeIgniter
+* **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax
+* **Database:** MySQL, MS SQL Server, SQLite
+* **CMS:** WordPress
+* **Mobile:** Flutter & Dart
+* **API:** RESTful APIs, JSON
+* **Server & Hosting:** Linux, XAMPP, cPanel, Cloud Servers
+* **Other:** CRM Systems, Database Management, Website Maintenance, IT Support
+
+---
+
+## 🚀 What I Do
+
+* Web Application Development
+* PHP & Laravel Backend Development
+* CRM & Business Application Development
+* RESTful API Development
+* Flutter Mobile Application Development
+* WordPress Development & Customization
+* Database Design & Management
+* Cloud Server & Hosting Management
+* Website Maintenance & Technical Support
+
+---
+
+## 🚀 Currently Working On
+
+* **Laravel Application Development** – Developing and maintaining modern web applications and business solutions.
+* **CRM & Business Systems** – Developing, customizing, and maintaining CRM and internal business applications.
+* **Reporting & Management Portals** – Building reporting systems and dashboards to support business operations.
+* **RESTful API Development** – Developing and integrating REST APIs for web and mobile applications.
+* **Mobile Application Development** – Working with Flutter and Dart, including online/offline data synchronization.
+* **Website Development & Maintenance** – Managing and optimizing WordPress and PHP-based websites.
+* **Server & Cloud Management** – Managing hosting, cPanel, FTP, DNS, SSL, backups, and cloud/server environments.
+* **Google Workspace & Email Administration** – Managing business email accounts, Google Workspace services, DNS records, and email configurations.
+* **IT Systems & Technical Support** – Troubleshooting application, server, network, and system-related issues.
+* **UI & Graphic Design** – Creating and supporting web designs, UI layouts, and marketing materials using Adobe Photoshop, Illustrator, and related design tools.
+* **System Optimization & Automation** – Improving application performance, business workflows, and system processes.
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** www.linkedin.com/in/amjath-khan-h/
+* **GitHub:** [github.com/amjathk](https://github.com/amjathk)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
