@@ -51,6 +51,16 @@ I specialize in developing and maintaining web applications, business solutions,
 
 ---
 
+### 📱 Mobile Development
+
+* **Flutter & Dart** — Mobile application development for business and field-service operations.
+* **Offline & Online Data Synchronization** — Implemented offline data storage and automatic synchronization with the server when internet connectivity is restored.
+* **RESTful API Integration** — Connected mobile applications with backend services for data exchange and real-time updates.
+* **QR Code Scanning** — Developed QR-based applications for identifying and monitoring pest-control service points and products.
+* **Field Service Applications** — Developed and deployed mobile solutions to support technician activities, service tracking, and customer-side monitoring.
+
+---
+
 ## 📫 Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/amjath-khan-h/
