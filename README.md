@@ -48,6 +48,7 @@ I specialize in developing and maintaining web applications, business solutions,
 * **IT Systems & Technical Support** – Troubleshooting application, server, network, and system-related issues.
 * **UI & Graphic Design** – Creating and supporting web designs, UI layouts, and marketing materials using Adobe Photoshop, Illustrator, and related design tools.
 * **System Optimization & Automation** – Improving application performance, business workflows, and system processes.
+* **Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design
 
 ---
 
