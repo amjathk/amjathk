@@ -18,7 +18,7 @@ I specialize in developing and maintaining web applications, business solutions,
 * **API:** RESTful APIs, JSON
 * **Server & Hosting:** Linux, XAMPP, cPanel, Cloud Servers
 * **Other:** CRM Systems, Database Management, Website Maintenance, IT Support
-* * **Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design
+* **Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design
 
 ---
 
