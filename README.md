@@ -17,7 +17,7 @@ I specialize in developing and maintaining web applications, business solutions,
 * **Mobile:** Flutter & Dart
 * **API:** RESTful APIs, JSON
 * **Server & Hosting:** Linux, XAMPP, cPanel, Cloud Servers
-* **Other:** CRM Systems, Database Management, Website Maintenance, IT Support
+* **Other:** CRM Systems, Database Management, Website Maintenance, IT Support, Google Workspace
 * **Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, UI & Web Design
 
 ---
